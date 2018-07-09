@@ -18,3 +18,5 @@ Lesson 5: Performing Grid Search to evaluate different configurations for the ne
 Lesson 6: Creating a fully connected network for the famous Iris flower multiclass classification problem. One hot encoding is performed to encode class values as integers
 
 Lesson 7: A fully connected network is created for the Sonar Object Classification problem
+
+Lesson 8: Perform standardization on the data before building the network. A pipeline is created to standardize the data in each pass of the cross validation instead of standardizing the entire dataset
