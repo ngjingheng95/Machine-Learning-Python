@@ -21,4 +21,4 @@ Lesson 7: A fully connected network is created for the Sonar Object Classificati
 
 Lesson 8: Perform standardization on the data before building the network. A pipeline is created to standardize the data in each pass of the cross validation instead of standardizing the entire dataset
 
-Lesson 9: Tuning the network by experimenting with different network structures. A smaller network with fewer neurons in the first hidden layer, as well as a larger network with an addition hidden layer are created and tested.
+Lesson 9: Tuning the network by experimenting with different network structures. A smaller network with fewer neurons in the first hidden layer, as well as a larger network with an additional hidden layer are created and tested.
