@@ -25,4 +25,18 @@ Lesson 9: Tuning the network by experimenting with different network structures.
 
 Lesson 10: Compared three neural network structures on Boston House Prices Regression problem - the baseline model, a larger model with more hidden layers, and a wider model with more neurons in the hidden layer
 
+Lesson 11: Save model into JSON and weights into HDF5 format for later use. Model is trained on Pima Indian Diabetes dataset
 
+Lesson 12: Model is loaded from JSON and weights are loaded from HDF5 file.
+
+Lesson 13: Checkpointing neural network improvements over epochs. 2 checkpointing functions are created here. The first function creates a hdf5 file and saves the new weights every time there is an improvement in accuracy. The second function creates 1 hdf5 file and updates the file everytime there is an update, hence the hdf5 file contains the weights with the best accuracy at the end of the training. Model is trained on Pima Indian Diabetes dataset.
+
+Lesson 14: Loading HDF5 containing the weights with best accuracy. Model is trained on Pima Indian Diabetes dataset
+
+Lesson 15: Uses pyplot to plot the history of training and test accuracy and loss.  Useful way to estimate whether we should increase or decrease number of epochs to improve performance
+
+Lesson 16: Implemented dropout to improve performance. Model is trained on Sonar dataset.
+
+Lesson 17: Implemented time-based learning rate schedule on Ionosphere dataset
+
+Lesson 18: Implemented drop-based learning rate schedule on Ionosphere dataset
