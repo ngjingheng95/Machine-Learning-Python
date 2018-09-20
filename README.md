@@ -40,3 +40,14 @@ Lesson 16: Implemented dropout to improve performance. Model is trained on Sonar
 Lesson 17: Implemented time-based learning rate schedule on Ionosphere dataset
 
 Lesson 18: Implemented drop-based learning rate schedule on Ionosphere dataset
+
+Lesson 19: Plot 9 of the image inputs in a 3x3 grid on MNIST dataset
+
+Lesson 20: Trained a network to recognise MNIST data using Multi-layered Perceptrons
+
+Lesson 21: Trained a network to recognise MNIST data using Convolutional Neural Networks (CNNs)
+
+Lesson 22: Performed object recognition using CNNs on CIFAR10 dataset
+
+Lesson 23: Performed sentiment analysis using CNNs on IMDB dataset
+
