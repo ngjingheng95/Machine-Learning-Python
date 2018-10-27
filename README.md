@@ -1,9 +1,9 @@
 # Machine-Learning-Python
-Journey towards Machine Learning Mastery!
----
+## Journey towards Machine Learning Mastery!
+## ---
 
 This repository contains the various deep learning models that were developed while learning Machine Learning.
-The models created are based on Theano and Tensorflow backend and uses Keras.
+The models created are based on Tensorflow backend and uses Keras.
 
 Lesson 1: Simple calculation using basic Tensorflow functions
 
@@ -50,4 +50,3 @@ Lesson 21: Trained a network to recognise MNIST data using Convolutional Neural 
 Lesson 22: Performed object recognition using CNNs on CIFAR10 dataset
 
 Lesson 23: Performed sentiment analysis using CNNs on IMDB dataset
-
