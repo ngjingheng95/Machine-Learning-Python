@@ -1,5 +1,5 @@
 # Machine-Learning-Python
-## Journey towards Machine Learning Mastery!
+### Journey towards Machine Learning Mastery!
 ---
 
 This repository contains the various deep learning models that were developed while learning Machine Learning.
